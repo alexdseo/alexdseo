@@ -4,6 +4,10 @@
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=alexdseo&hide=prs&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
+🔭 I’m currently working on ...
+- CARA Project for Gilroy Astrobotany Lab
+- BANN project for Medical Scinces Center Computer Vision Group @ UW-Madison
+
 📫 How to reach me...
 - Email : donghyunmon@gmail.com / dseo22@wisc.edu
 
@@ -12,7 +16,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
