@@ -5,8 +5,8 @@
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=alexdseo&hide=prs&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 🔭 I’m currently working on ...
-- CARA Project for Gilroy Astrobotany Lab (NASA GeneLab Plant AWG)
-- BANN project for Medical Sciences Center Computer Vision Group @ UW-Madison
+- CARA Project with Gilroy Astrobotany Lab (NASA GeneLab Plant AWG)
+- BANN project with Medical Sciences Center Computer Vision Group @ UW-Madison
 - The Hitchhiker's Guide to the Data Science
 
 📫 How to reach me...
