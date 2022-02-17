@@ -10,7 +10,7 @@
 - The Hitchhiker's Guide to the Data Science
 
 📫 How to reach me...
-- Email : donghyunmon@gmail.com / dseo22@wisc.edu
+- Email : donghyunmon@gmail.com / seodongh@usc.edu
 
 <!--
 **alexdseo/alexdseo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
